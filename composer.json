@@ -1,0 +1,20 @@
+{
+    "name": "vergo/naissance-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Golars",
+            "email": "titorens@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "symfony/framework-bundle": "~2.3|~3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5"
+    },
+    "autoload": {
+        "psr-4": { "Vergo\\NaissanceBundle\\": "" }
+    }
+}
