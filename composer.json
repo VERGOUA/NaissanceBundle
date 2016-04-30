@@ -1,0 +1,11 @@
+{
+    "name": "vergo/naissance-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Golars",
+            "email": "titorens@gmail.com"
+        }
+    ],
+    "require": {}
+}
