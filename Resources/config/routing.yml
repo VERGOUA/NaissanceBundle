@@ -1,0 +1,3 @@
+naissance_homepage:
+    path:     /naissance
+    defaults: { _controller: NaissanceBundle:Default:index }
